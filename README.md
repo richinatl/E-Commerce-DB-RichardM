@@ -2,6 +2,10 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
+
+![Ecommerce2](https://user-images.githubusercontent.com/95508564/162836900-78400c61-3428-4094-bf49-c629b5cd720c.png)
+
+
 ## Table of Contents
 
 - [Description](#description)
@@ -9,7 +13,6 @@
 - [Usage](#usage)
 - [Licenses](#licenses)
 - [Contributors](#contributors)
-- [Tests](#tests)
 - [Questions](#questions)
 - [Credits](#credits)
 
@@ -25,6 +28,9 @@ Fork from this repository and download dependencies
 
 initialize db with mysql by running db/schema.sql from the mysql terminal, run npm i, then node seeds/index.js, then node server.js
 
+See the link here to a demo:
+https://watch.screencastify.com/v/UXH83vlIou5QHocEh1Dm
+
 ## Licenses
 
     This project is covered under the MIT license. To learn more click the license button at the top.
@@ -33,9 +39,9 @@ initialize db with mysql by running db/schema.sql from the mysql terminal, run n
 
 None as of this time, just let me know if you would like to do so
 
-## Tests
 
-NA
+![Ecommerce_1](https://user-images.githubusercontent.com/95508564/162836977-ba61fbce-5d1a-4b5b-87ec-bd5212fc7998.png)
+
 
 ## Questions
 
