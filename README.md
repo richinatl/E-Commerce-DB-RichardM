@@ -3,8 +3,6 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
-![Ecommerce2](https://user-images.githubusercontent.com/95508564/162836900-78400c61-3428-4094-bf49-c629b5cd720c.png)
-
 
 ## Table of Contents
 
@@ -15,6 +13,21 @@
 - [Contributors](#contributors)
 - [Questions](#questions)
 - [Credits](#credits)
+
+<br>
+
+---
+
+![Ecommerce2](https://user-images.githubusercontent.com/95508564/162836900-78400c61-3428-4094-bf49-c629b5cd720c.png)
+
+<br>
+
+![Ecommerce_1](https://user-images.githubusercontent.com/95508564/162836977-ba61fbce-5d1a-4b5b-87ec-bd5212fc7998.png)
+
+---
+
+
+
 
 ## Description
 
@@ -40,7 +53,7 @@ https://watch.screencastify.com/v/UXH83vlIou5QHocEh1Dm
 None as of this time, just let me know if you would like to do so
 
 
-![Ecommerce_1](https://user-images.githubusercontent.com/95508564/162836977-ba61fbce-5d1a-4b5b-87ec-bd5212fc7998.png)
+
 
 
 ## Questions
